@@ -9,17 +9,17 @@ Para maiores informações, confira a "home da Associação" em [wiki.openstreet
 * Documentos oficiais devem ser mantidos em formato [*markdown `gfm`*](https://pandoc.org/MANUAL.html) (Github-Flavored Markdown) neste repositório, <br/>depois salvos como TXT e HTML pelo Google-doc (e convertidos para `.md` pelo `pandoc`).  
 * Dados oficiais devem ser mantidos em formato CSV e descritos por `datapackage.json` conforme [padrão FrictionlessData](https://frictionlessdata.io/specs/), podendo ser diretamente baixados do Google-spreadsheet.
 
-## Organizaçao das pastas deste repositório
+## Organização das pastas deste repositório
 
-* [**`docs`**](docs) documentos markdown oficiais ou históricos (prova de existência) organizados por tema. Interfaces para edição colaborativa:
-   - [estatuto~v0_3](https://docs.google.com/document/d/1NRKuSBQ1R3FeeUa1jiAm9FlIHMHAwIPy_yiQxtk1OcI/), rascuhos v0.3.X do Estatuto.
+* [**`docs`**](docs) = documentos markdown oficiais ou históricos (prova de existência) organizados por tema. Interfaces para edição colaborativa:
+   - [estatuto~v0_3](https://docs.google.com/document/d/1NRKuSBQ1R3FeeUa1jiAm9FlIHMHAwIPy_yiQxtk1OcI/), rascuhos v0.3.X do Estatuto. Principais commits resumidos no TXT: [diff v0.3.1](https://github.com/OSMBrasil/Associacao/commit/87bea472957ffa5aba3c6c59cdf430b58afa7d65), ...
    
-* [**`data`**](data) dados CSV homologados pelo [Goodtables](https://goodtables.io). Interfaces para edição colaborativa:
+* [**`data`**](data) = dados CSV homologados pelo [Goodtables](https://goodtables.io). Interfaces para edição colaborativa:
    - [rodadas](https://docs.google.com/spreadsheets/d/1SRDBxdaOn78dqAzXK4TbJMReCBUGrBBc0PHpX-a5c6I/) de discussão estruturada e votação, todas as planilhas disponíveis ao público (dados não-sigilosos).
 
-* [**`assets`**](data) imagens e outros recursos dos docs.
+* [**`assets`**](data) = imagens e outros recursos dos docs.
 
-* `index.htm` opção para transformar os docs em site gratis no Github.
+* `index.htm` = opção para transformar os docs em site gratis no Github.
 
 -----------
 

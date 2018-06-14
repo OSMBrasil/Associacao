@@ -1,7 +1,10 @@
-﻿(proposta em construção fork da versao 0.2.9e)
-Estatuto Social (ENXUTO) da
+﻿(proposta em construção)
+Estatuto Social da
 OpenStreetMap Brasil
-(texto rascunho versão 0.3.1)
+(texto rascunho versão 0.3.1)                           (ver também futuro rascunho do Regimento Interno)
+PS: para dúvidas ver (desatualizado) FAQ-ilustrado.
+
+
 1. Denominação, sede e duração        1
 1.3. Documentação e publicidade dos atos        2
 2. Objetivos        2
@@ -14,13 +17,9 @@ OpenStreetMap Brasil
 7.3. Conselho Fiscal        9
 7.4. Conselho Diretor        10
 7.5. Assembleia Regional        10
-7.5. Conselho das Iniciativas        10
-8. Processo deliberativo        10
-9. Processos seletivos e eleitorais        12
-9.2. Processos baseados em 1-associado-1-voto        12
-9.3. Processos baseados em volume de contribuição        12
-10. Disposições Finais        12
-ANEXO        13
+7.6. Assembleia das Iniciativas        10
+8. Processo deliberativo        11
+9. Disposições Finais        11
 
 
 1. Denominação, sede e duração
@@ -30,18 +29,18 @@ ANEXO        13
 1.2.2. A OSM Brasil poderá atuar em conjunto ou articulando-se com instituições nacionais e internacionais, tais como, mas não se limitando à OpenStreetMap Foundation (OSMF), mantenedora do OpenStreetMap Project (“OpenStreetMap.org”) e das aplicações de internet utilizadas pelos associados.
 1.2.3. A OSM Brasil e seus membros agirão sempre em observância aos valores de ética, respeito, unidade, acolhimento e tolerância na sua comunidade; bem como guiados pela defesa aos dados abertos, ao conhecimento livre e à qualidade da informação geoespacial.
 1.3. Documentação e publicidade dos atos
-1.3.1. A OSM Brasil adotará um Regimento Interno, registrado conforme anexo A4, de responsabilidade do Corpo Gestor e com a finalidade de regular e detalhar as disposições contidas neste Estatuto, além de regular o processo eleitoral, contribuições e gestão do patrimônio.
-1.3.2. Todos os documentos e conjuntos de dados designados pelo Estatuto ou Regimento Interno devem ter seu código-fonte disponível em repositório do patrimônio digital da OSM Brasil e respeitar as recomendações de dados ligados, "Linked Data Platform", prescritas pelo W3C (World Wide Web Consortium).
+1.3.1. A OSM Brasil adotará um Regimento Interno (doravante abreviado Regimento), de responsabilidade do Corpo Gestor, aprovado em Assembleia Geral, e com a finalidade de regular e detalhar as disposições contidas neste Estatuto, além de regular o processo eleitoral, contribuições e gestão do patrimônio.
+1.3.2. Todos os documentos e conjuntos de dados designados pelo Estatuto ou Regimento devem ter seu código-fonte disponível em repositório do patrimônio digital da OSM Brasil[a] e respeitar as recomendações de dados ligados, "Linked Data Platform", prescritas pelo W3C (World Wide Web Consortium).
 1.3.3. A publicação de atos e demais conteúdos ou dados oficiais sujeitos ao princípio da publicidade deve ser realizada em “Diário Oficial da Organização” (DOO), com garantias de integridade, carimbo de data, garantia de autoria, independência e persistência.
-1. As atas das Assembleias Gerais devem ser depositadas digitalmente em Cartório de Registro de Títulos e Documentos.
+1. As atas das Assembleias Gerais devem ser depositadas digitalmente em Cartório de Registro de Títulos e Documentos.[b][c]
 2. As demais matérias do DOO acumuladas ao longo do ano serão submetidas ao Depósito Legal na Fundação Biblioteca Nacional em mídia digital, sem necessidade de outra forma de registro oficial.
 1.3.4. As notificações oficiais diretas ao associado serão efetivadas por e-mail quando solicitado no Termo de Adesão.
-1.3.5. A título de transparência, as notificações ou conjuntos de dados privativos devem ter como registro público de sua existência o “checksum” (soma de verificação) conforme padrões fixados no Regimento Interno.
+1.3.5. A título de transparência, as notificações e conjuntos de dados privativos devem ter registro público de sua existência em forma de “checksum” (soma de verificação), conforme padrões fixados no Regimento.[d][e]
 1.3.6. Será facultado a todo associado que assim o desejar, o uso de certificados digitais ICP-Brasil e Carimbo do Tempo.
-1.  A OSM Brasil, em posse do seu CNPJ e prevendo menor custo por transação, para satisfazer obrigações da cláusula 1.3.3 e similares previstas na legislação pertinente para movimentação financeira e assinatura de contratos digitais, deve adquerir seu próprio certificado digital.
+1.  A OSM Brasil, em posse do seu CNPJ e prevendo menor custo por transação, para satisfazer obrigações da cláusula 1.3.3 e similares previstas na legislação pertinente para movimentação financeira e assinatura de contratos digitais, deve manter seu próprio certificado digital, a ser utilizado apenas por Presidente do Conselho Diretor ou Fiscal (a critério do Regimento).
 2. Objetivos
-2.1. A missão da OSM Brasil é promover a abertura, fusão, construção colaborativa, descenralização e preservação de dados geoespaciais livres de utilidade pública para o Brasil.
-2.2. A OSM Brasil tem como objetivos educacionais e de difusão: 
+2.1. A missão da OSM Brasil é promover a abertura, fusão, construção colaborativa e preservação de dados geoespaciais livres de utilidade pública para o Brasil.
+2.2. A OSM Brasil tem como objetivos educacionais e de difusão: [f][g][h][i]
 1. difundir o OpenStreetMap Project e seu valores no Brasil;
 2. incentivar o crescimento, desenvolvimento e distribuição de dados geoespaciais livres;
 3. tornar o OpenStreetMap Project mais visível para os órgãos públicos e as empresas, apoiando-os no licenciamento consistente de informações geoespaciais, e no uso dos padrões e aplicações do projeto;
@@ -49,29 +48,30 @@ ANEXO        13
 2.3. A OSM Brasil tem como objetivos institucionais:
 1. ser porta-voz dos mapeadores da Comunidade OSM Brasil no diálogo institucional com outras associações, governo ou empresas;
 2. se fazer representar institucionalmente, através especialistas eleitos em grupos de trabalho, assegurando voz ou acento à OSM Brasil, como parte interessada, em órgãos, decisões e comissões do governo e de outras instituições nacionais, tais como INDA (Infraestrutura Nacional de Dados Abertos), ABNT (Associação Brasileira de Normas Técnicas), W3C-Brasil, e similares;
-3. servir de "incubadora" de novos projetos técnicos e novas iniciativas afinadas com a sua missão;
+3. servir de "incubadora" de novos projetos técnicos e novas iniciativas afinadas com a sua missão;[j][k]
 4. contribuir para a melhora da qualidade dos dados orientados a sua missão, estabelecendo normas de controle e níveis de maturidade;
 5. contribuir para a formação de um patrimônio de dados orientados a sua missão, estabelecendo dentro ou fora da associação meios de preservação digital;
 6. captar e gerenciar fundos para a sustentabilidade da associação e contemplar seus objetivos.
 ________________
 3. Associados
-3.1. Poderá ingressar na OSM Brasil, como associado individual, toda pessoa física que utilizar a aplicação de internet referida na cláusula 1.2.2, e que adira à missão (cláusula 2.1) e valores (cláusula 1.2.3) da OSM Brasil.
-3.1.1. A pessoa fica caracterizada publicamente pelo nome-de-usuário na aplicação de internet, e privativamente pela cidade onde mora, nome completo, data e local de nascimento, e código de identificação civil nacional, ou outro documento oficial indicado pelo Regimento Interno.
-   1. Todos os dados ficam sujeitos à aprovação do Conselho Fiscal, conforme critérios fixados pelo Regimento Interno, e ficando sob sua guarda os dados privados.
-   2. Em caso de estrangeiro sem identificação civil nacional, os dados devem ser públicos e o candidato fica sujeito a aprovação.
+3.1. Poderá ingressar na OSM Brasil, como associado individual, toda pessoa física que utilizar a aplicação de internet referida na cláusula 1.2.2, e que adira à missão (cláusula 2.1) e valores (cláusula 1.2.3) da OSM Brasil.[l][m][n][o]
+3.1.1. A pessoa fica caracterizada publicamente pelo nome-de-usuário na aplicação de internet, e privativamente pela cidade onde mora, nome completo, data e local de nascimento, e código de identificação civil nacional (ou outro documento oficial indicado pelo Regimento).
+   1. Todos os dados ficam sujeitos à aprovação do Conselho Fiscal (critérios fixados pelo Regimento), e ficando sob sua guarda os dados de maior sigilo.
+   2. Em caso de pessoa estrangeira sem identificação civil nacional, todos os dados cadastrais devem ser públicos e o candidato fica sujeito a aprovação.
 3.2. Poderá também ingressar na OSM Brasil, como Associado Institucional, toda pessoa jurídica que apresentar afinidade de sua missão ou atividade-fim com a missão da OSM Brasil, e indicar um associado individual que passaria a ser seu Representante.
-3.2.1. A pessoa jurídica fica caracterizada pela sua razão social e CNPJ, devendo ser previamente aceita pelo Conselho Fiscal conforme critérios objetivos fixados no Regimento Interno.
+3.2.1. A pessoa jurídica fica caracterizada pela sua razão social e CNPJ, devendo ser previamente aceita pelo Conselho Fiscal conforme critérios objetivos fixados no Regimento.
 3.2.2. O Representante que for eleito Diretor ou Conselheiro deve abdicar do cargo de representação, tendo o Associado Institucional representado o prazo de 2 semanas para indicar seu novo representante.
-3.3. São condições para admissão do Associado:
-   1. ser indicado por pelo menos dois associados credenciados (conforme cláusula 4.2) e aprovado de forma unânime pelo Conselho Fiscal, em reunião semestral específica para este fim;
-   2. não apresentar evidencias públicas oficiais de conflito de interesse, conforme julgamento do Conselho Fiscal.
-3.4. O Associado ingressante deve também assinar o Termo de Adesão, com redação dada pelo Regimento Interno conforme anexo A3.
+3.3. A admissão do Associado estará sugeita nos primeiros 6 meses a pedidos de verificação de qualquer outro associado, suspendendo temporariamente a admissão até que o Conselho Fiscal ou Assembleia Geral possam se manifestar a respeito de uma das seguintes eventuais irregularidades:
+   1. falha ou inconsistência nos dados cadastrais;
+   2. evidencias de conflito de interesse;
+   3. risco de formação de maioria (número muito grande de novos associados de um mesmo grupo).
+3.4. O Associado ingressante deve também assinar o Termo de Adesão, fixado pelo Regimento.
 3.4.1. Toda mudança de status ou cargo do Associado deve ser publicada no DOO. Quando não houver disposto em contrário, a data de publicação é a data de inicio de vigência do novo status.
 3.5. O número de associados da OSM Brasil é ilimitado, podendo cada membro permanecer como associado por indeterminado, desde que se mantenha em dia com os deveres previstos neste Estatuto.
 3.5.1. O número mínimo de associados para manter a OSM Brasil em operação é 20 (nove), a partir do que qualquer associado terá direito de convocar Assembleia Geral para sua extinção (cláusula 7.2.2).
 4. Direitos e deveres dos associados
 4.1. São direitos dos Associados Individuais:
-   1. participar, manifestar-se e votar nas Assembleias Gerais, com opções de designar um procurador para as Assembleias do período em que planeja se ausentar, ou registrar previamente procuradores por tema ou por pauta.
+   1. participar, manifestar-se e votar nas Assembleias Gerais, com opções de designar um procurador para as Assembleias do período em que planeja se ausentar, ou registrar previamente procuradores por tema ou por pauta[p].
    2. candidatar-se para cargos eletivos e a representação de Associados Institucionais.
 4.3. As cláusulas a seguir elencam os demais direitos dos Associados, Individuais e Institucionais.
 4.3.1. Ter acesso a todas as informações pertinentes à Associação, bem como ser informado em tempo dos atos e convocações.
@@ -82,24 +82,23 @@ ________________
 4.3.3. Requerer a convocação de Assembléia Geral, assim como requerer pautas específicas de uma assembleia já convocada, dentro das seguintes condições:
    1. por solicitação privativa ao presidente do Conselho Diretor;
    2. por solicitação pública, por escrito, ao Conselho Fiscal;
-   3. por manifestação de pelo menos 1/5 (um quinto) dos membros.
+   3. por manifestação de pelo menos 1/5 (um quinto) dos membros.[q][r][s]
 4.3.4. Utilizar-se da infraestrutura exclusiva dos associados.
 4.3.5. Desligar-se livremente da Associação, renunciando aos seus direitos de associado.
 4.4. São deveres dos Associados (Individuais e Institucionais):
-   1. respeitar as diretivas deste Estatuto, do Regimento Interno e da Assembleia;
-   2. contribuir com a parcela fixa de anuidade que lhe cabe, conforme designação de valores no Regimento Interno;
-   3. praticar e defender a realização dos objetivos sociais, e prestigiar a OSM Brasil por todos os meios a seu alcance;
+   1. respeitar as diretivas deste Estatuto, do Regimento e da Assembleia Geral;
+   2. contribuir com a parcela fixa de anuidade que lhe cabe, conforme designação de valores no Regimento;
+   3. praticar e defender a realização dos objetivos sociais, e prestigiar a OSM Brasil por todos os meios a seu alcance[t][u];
    4. respeitar e cumprir o Estatuto e outras normas internas da OSM Brasil, bem como as deliberações fixadas pelo corpo diretivo.
 4.5. São deveres dos Associados Individuais:
    1. desempenhar com zelo e dedicação os cargos para os quais forem eventualmente eleitos, bem como as atribuições que lhes forem confiadas pelos órgãos sociais;
    2. informar o Conselho Fiscal sobre qualquer anormalidade ou irregularidade de que tenha conhecimento e que possa prejudicar a OSM Brasil.
 5. Mediação e penalidades
-5.1. Contendas envolvendo suspeitas de irregularidade e casos omissos ou duvidosos, no presente Estatuto ou no Regimento Interno, serão resolvidos em instâncias de mediação conforme regras de precedência do anexo A1.1 e em seguida conforme recurso para demais instâncias superiores já previstos pela cláusula X.7.
+5.1. Contendas envolvendo suspeitas de irregularidade e casos omissos ou duvidosos, no presente Estatuto ou no Regimento, serão resolvidos em instâncias de mediação conforme regras de precedência do anexo A1.1 e em seguida conforme recurso para demais instâncias superiores já previstos pela cláusula X.7.
 5.1.1. A mediação ou resolução de contendas menores (assim como suporte para a conduta dentro das regras estabelecidas) pode ser conseguida através da nomeação de cargos (anexo A1.5) sob demanda:
    1. nos canais de comunicação (anexo A.1.4), nomeação via Conselho Fiscal, de Mediador do Canal;
    2. nas Direitoria Regionais, nomeação via Conselho Fiscal, de Supervisor Fiscal;
    3. nas Iniciativas imaturas, nomeação via Conselho das Iniciativas, de Facilitador;
-   4. nas Iniciativas maduras, nomeação via Assembleia da Iniciativa, de Zelador da Iniciativa.
 5.2. A prática por qualquer Associado da OSM Brasil de atos incompatíveis com este Estatuto ou normas decorrentes, devidamente caracterizada por parecer do Conselho Fiscal ou de instância fixada pela cláusula 5.1, poderá ensejar, as seguintes penalidades:
    1. Advertência por escrito;
    2. Suspensão de 30 (trinta) dias até 01 (um) ano;
@@ -113,21 +112,21 @@ ________________
 6.1.1. Patrimonio abstrato (digital ou intangível): 
    1. marcas, nomes de domínio e demais identificadores sob concessão da OSM Brasil;
    2. dados ou conteúdos sigilosos de propriedade da OSM Brasil, incluindo aqueles definidos pela cláusula 3.1.1.1, e outros que vierem a ser definidos pelo Regimento Intermo; 
-   3. dados ou conteúdos públicos, de licença aberta e sob responsabilidade ou tutela da OSM Brasil, destinados à preservação digital por período mínimo de 2 anos e por vontade expressa da Assembleia.
+   3. dados ou conteúdos públicos, de licença aberta e sob responsabilidade ou tutela da OSM Brasil, destinados à preservação digital por período mínimo de 2 anos e por vontade expressa da Assembleia.[v][w][x]
 6.1.2. Patrimonio concreto: ativos financeiros e bens (móveis, imóveis ou moedas digitais), assim como os frutos ou rendimentos produzidos por esses bens. Quanto a sua origem pode ser:
    1. contribuição fixa dos associados;
    2. receita de serviços prestados pela OSM Brasil a Associados Institucionais ou terceiros;
    3. doação, assim como patrocínios, dotações, legados, heranças e subsídios que forem concedidos por pessoas físicas ou jurídicas, de direito privado ou de direito público, nacionais ou estrangeiras;
    4. contribuição-extra (para efeitos jurídicos e contáveis equipara-se à doação);
    5. horas voluntárias doadas às iniciativas maduras.
-6.1.3. As horas voluntárias (item E acima) serão registradas em conformidade com o Termo de Adesão à Iniciativa, sem previsão de ressarcimento, com teor disposto no artigo 2º da Lei 9.608/98, e contabilizas em conformidade com as regras dispostas pelo Regimento Interno, e respeitando-se:
+6.1.3. As horas voluntárias (item E acima) serão registradas em conformidade com o Termo de Adesão à Iniciativa, sem previsão de ressarcimento, com teor disposto no artigo 2º da Lei 9.608/98[y][z], e contabilizas em conformidade com as regras dispostas pelo Regimento, e respeitando-se:
    1. as regras ditadas pela resolução CFC 1.409/12 do Conselho Federal de Contabilidade;
-   2. a liberedade de avaliação e revisão pelo Conselho das Iniciativas ou do Conselho Fiscal.
+   2. a liberedade de avaliação e revisão pela Assembleia das Iniciativas ou do Conselho Fiscal.
 6.2. Cada patrimônio deve ficar confinado a sua origem, dentro da respectiva estrutura e governança:
    1. quando cedido explicitamente a uma Iniciativa da Plataforma de Iniciativas, fica a ela confinado;
-   2. em caso de extinção da Inicitiva o seu patrimônio terá destinação deliberada pelo Conselho das Iniciativas;
+   2. em caso de extinção da Inicitiva o seu patrimônio terá destinação deliberada pela Assembleia das Iniciativas;
    3. quando cedido à OSM Brasil como um todo, terá sua destinação determinada pelo Conselho Diretor.
-6.3. Cada item de patrimônio incorporado deve ser identificado e categoriazado. O Regimento Interno deteminará o uso de um ou mais critérios de rotulação, para fins contábeis e semânticos (cláusula 1.3.1).
+6.3. Cada item de patrimônio incorporado deve ser identificado e categoriazado. O Regimento deteminará o uso de um ou mais critérios de rotulação, para fins contábeis e semânticos (cláusula 1.3.1).
 6.3.1. Em particular deve ser destacada a proveniência das receiras (item 6.1.2.B), identificando o contrato que lhe deu origem.
 6.4. A OSM Brasil não assume empréstimos ou dívidas de qualquer espécie.
 6.5. A OSM Brasil deve manter apenas uma conta bancária vinculada ao seu CNPJ, com opção de vincular a mesma a uma conta poupança.
@@ -159,11 +158,10 @@ Multi - todos / governança soberana / semestral.
 	Assembléia Regional
 	Região / associados da região.
 Multi - todos / governança local / mensal.
-	Conselho das Iniciativas
-	Todas as Iniciativas / coordenadores das iniciativas.
+	Assembleia das Iniciativas
+	Todas as Iniciativas / associados contribuintes das iniciativas.
 Coordenativo - todos / alinhamentos na Plataforma de Iniciativas / semestral.
-	
-
+	   NOTA: pode-se abreviar por “Corpo Gestor” a referência ao conjunto “Conselho Fiscal + Conselho Diretor”.
 7.1.1. Os três conselhos (Diretor, Fiscal e das Iniciativas) são independentes, respondendo apenas à Assembleia Geral.
 7.1.2. São jurisdições regionais permitidas, conforme denominações e delimitações oficiais:
    1. Escala Federal: Norte, Nordeste, Centro-oeste, Sudeste e Sul;
@@ -182,12 +180,12 @@ Coordenativo - todos / alinhamentos na Plataforma de Iniciativas / semestral.
    1. Deve-se facilitar no ambiente eleitoral as decisões complementares, por exemplo o coordenador de uma iniciativa ao abandonar o cargo para poder assumir como conselheiro, pode solicitar garantia de que poderá assumir o cargo de zelador da mesma iniciativa.
 7.1.6. A título de renovação, ocupantes de cargos no Conselho Fiscal ou Conselho Diretor não podem permanecer por mais do que 3 (três) anos consecutivos em qualquer que seja o cargo, exceto pelo caso do quarto ano ser completado como (no máximo terceiro de) presidente.
 7.1.7. O Presidente do Conselho Diretor é também porta-voz da OSM Brasil e será eleito ou reeleito a cada Assembleia Geral Ordinária com base na  avaliação de desempenho e preferências, entre os Diretores Gerais e Conselheiros Fiscais avaliados.
-   1. A avaliação de desempenho será realizada em conformidade com o anexo A1.7. Em caso de empate, assume o que esteve menos tempo como presidente ou, havendo ainda empate, segue-se a ordem dos associados no Livro de Matrícula.
+   1. A avaliação de desempenho será realizada em conformidade com o Regimento. Em caso de empate, assume o que esteve menos tempo como presidente ou, havendo ainda empate, segue-se a ordem dos associados no Livro de Matrícula.
    2. Caso necessário reaplica-se a regra da cĺáusula 7.1.5 para que a vacância de cargo criada com a eleição do novo presidente seja preenchida.
 7.2. Assembleia Geral
 7.2.1. A Assembléia Geral dos Associados, legalmente constituída e instalada, é o órgão supremo da OSM Brasil, podendo resolver todos os assuntos que não possam ser resolvidos pelos demais órgãos sociais.
 7.2.2. São de competência exclusiva da Assembleia Geral:
-   1. avaliar a aprovação dos membros do Conselho Diretor e do Conselho Fiscal através de votação com critérios fixado pelo anexo ??; 
+   1. avaliar a aprovação dos membros do Conselho Diretor e do Conselho Fiscal através de votação com critérios fixado pelo Regimento; 
    2. renovar através de eleições 1/3 (um terço) dos membros do Conselho Diretor e do Conselho Fiscal;
    3. destituir membros dos Conselhos Diretor e/ou do Conselho Fiscal quando o membro não atingir índice mínimo de aprovação (item A) no cumprimento de suas atribuições;
    4. aprovar as contas anuais da OSM Brasil, mediante parecer do Conselho Fiscal e, caso necessário, com auxílio de auditoria externa;
@@ -201,91 +199,47 @@ Coordenativo - todos / alinhamentos na Plataforma de Iniciativas / semestral.
 7.2.4. As deliberações relativas aos itens A, B, C, D e E da cláusula 7.2.2 devem ser realizadas anualmente, em regime de Assembleia Geral Ordinária, convocada em data e hora de consenso dos conselhos Diretor e Fiscal no primeiro trimestre.
 7.2.5. As deliberações relativas aos itens F, G, H, I e J da cláusula 7.2.2 exige-se o voto concorde de 2/3 (dois terços) do quorum qualificado da Assembléia Geral convocada especialmente para esse fim.
 7.2.6. A Assembléia Geral reunir-se-á extraordinariamente, a qualquer tempo, podendo ser convocada pelo presidente de qualquer dos Conselhos, ou a pedido dos associados (cláusula 4.3.3).
-7.2.7.  Os critérios de “maturidade da inicitiava” na Plataforma de Iniciativas (item C da cláusula 7.2.2) devem ser regulamentados pelo Regimento Interno seguindo-se as diretivas do anexo ??.
+7.2.7.  Os critérios de “maturidade da inicitiava” na Plataforma de Iniciativas (item C da cláusula 7.2.2) devem ser regulamentados pelo Regimento seguindo-se as diretivas do anexo ??.
 7.3. Conselho Fiscal
 7.3.1. O Conselho Fiscal é um órgão colegiado, eleito pela Assembléia Geral, responsável pela fiscalização dos demais órgãos, sendo composto por 03 (três) titulares e 02 (dois) suplentes associados individuais, para mandatos individuais de no máximo 03 (três) anos ininterruptos.
-7.3.2. O Conselho Fiscal reunir-se-á ao menos uma vez por ano, sempre antes da Assembléia Geral Ordinária e, a qualquer tempo, quando convocado perlos seus integrandes, pelo Conselho Diretor ou em demais circunstâncias previstas no Estatuto ou Regimento Interno.
+7.3.2. O Conselho Fiscal reunir-se-á ao menos uma vez por ano, sempre antes da Assembléia Geral Ordinária e, a qualquer tempo, quando convocado perlos seus integrandes, pelo Conselho Diretor ou em demais circunstâncias previstas no Estatuto ou Regimento.
 7.3.3. Ao Conselho Fiscal compete:
    1. zelar pelos princípios da publicadade e transparência, bem como garantir a manutençao do DOO e demais dispositivos previstos na cláusula 1.3;
    2. executar os atos previstos (nas cláusulas 3.1, 3.2, 3.3, 4.2.3, 4.4, 5, e outras) deste Estatuto;
    3. opinar sobre relatórios de desempenho financeiro e contábil e sobre operações patrimoniais realizadas, emitindo os competentes pareceres;
    4. zelar pela observância dos princípios fundamentais de contabilidade e das Normas Brasileiras de Contabilidade, na prestação de contas e atos correlatos da OSM Brasil;
    5. apoiar o Conselho Diretor (geral e suas regionais) na adoção e estabelecimento, para todos os órgãos da OSM Brasil, práticas de gestão administrativa, necessárias e suficientes aos princípios fixados pela cláusula 1.2.3, coibindo conflitos de interesse individual ou coletivo;
-   6. efetuar modificações corretivas no Regimento Interno ou, com apoio do Conselho Diretor, modificações perfeitivas, bem como sugerir para a Assembleia modificações no Estatuto; 
+   6. efetuar modificações corretivas no Regimento ou, com apoio do Conselho Diretor, modificações perfeitivas, bem como sugerir para a Assembleia modificações no Estatuto; 
    7. acompanhar o trabalho de eventuais auditores externos independentes.
 7.4. Conselho Diretor
 7.4.1. O Conselho Diretivo é o órgão social administrativo, representativo e executor da Associação, colegiado e eleito pela Assembléia Geral, sendo composto por três titulares (cláusula 7.1.1.A) e respectivos suplentes.
-   1. Outros membros, conforme cargos definidos no anexo ?? podem ser agregados ao Conselho quando o Regimento Interno assim o permitir.
 7.4.2. Ao Conselho Diretor compete:
    1. dirigir as atividades da OSM Brasil, zelando pelo fiel cumprimento do presente Estatuto e das deliberações da Assembléia Geral;
    2. executar os atos previstos (nas cláusulas 4.2.3, 6.2, 6.5, e outras) deste Estatuto;
    3. elaborar o programa anual de trabalho e o orçamento da OSM Brasil;
-   4. apoiar o Presidente do Conselho das Iniciativas na supervisão da Plataforma de Iniciativas, pelo cumprimento de metas previstas pelo planejamento anual;
+   4. apoiar o Presidente da Assembleia das Iniciativas na supervisão da Plataforma de Iniciativas, pelo cumprimento de metas previstas pelo planejamento anual;
    5. apoiar o Conselho Fiscal na adoção e estabelecimento de práticas de gestão administrativa, necessárias e suficientes aos princípios fixados pela cláusula 1.2.3, coibindo conflitos de interesse;
    6. examinar e aprovar quaisquer atos do Presidente do Conselho Diretor.
 7.5. Assembleia Regional
-7.5.1. Quando for autorizado pela Assembleia Geral, associados de uma mesma região 
-... idem assembleia porém atribuiçoes restritas e escopo regional (apenas associados da região podem votar)...
-7.5. Conselho das Iniciativas
-...
+7.5.1. Quando for autorizado pela Assembleia Geral e regularizado pelo Conselho Fiscal, associados de uma mesma jurisdição regional (cláusula 7.1.2), poderá assumir localmente, e apenas entre os associados de uma mesma região, as competências da Diretoria no escopo regional.
+7.6. Assembleia das Iniciativas[aa][ab]
+7.6.1. Quando for autorizado pela Assembleia Geral e regularizado pelo Conselho Fiscal, associados de uma mesma jurisdição temática (dita “Iniciativa” conforme cláusula 7.1.3), poderão formalizar equipes de trabalho para a promossão de iniciativas consistentes com os objetivos da OSM Brasil.
+   1. Cada Iniciativa deve eleger um coordenador e opcionalmente um zelador, em comum acordo com o Conselho Fiscal.
+   2. Cada Iniciativa pode solicitar, em nome da OSM Brasil e do coordenador da Iniciativa, recursos de terceiros conforme cláusula 6.8.2.1.
+7.6.2. Os associados contribuintes de uma ou mais iniciativas (cláusula 4.3.2) poderão se reunir periodicamente em Assembleia das Iniciativas, com a seguinte competência:
+   1. eleição do Presidente da Assembleia das Iniciativas, que representará os demais coordenadores em atos de instâncias menores e diálogo com demais órgãos;
+   2. estabelecer recomendações (não-obrigatórias) para padronizar as ações e boas práticas nas Iniciativas;
+   3. expressar para o Conselho Diretor sugestões, incluindo a destinação de sobras relativas dos recursos previstos na cláusua 7.6.1.2.
 8. Processo deliberativo
-{mover complexidade pro Regimento Interno?}
-8.1. O rito de convocação e demais procedimentos para a realização de assembleias e reuniões deliberativas de conselhos, deve cumprir as instruções deste Estatuto, com detalhes regulamentados pelo Regimento Interno. Nas instruções que se seguem será adotada a seguinte terminologia:
-   1. “reunião deliberativa” designa qualquer uma das instâncias deliberativas;
-   2. “comunidade de interesse” designa todo o conjunto de associados que se submetem à instância.
-   3. “notificação” designa o mecanismo (ex. e-mail) fixado pela cláusula 1.3.4;
-   4. “convocação” refere-se ao conteúdo expresso em “edital de convocação da reunião deliberativa”; 
-   5. “mesa” designa o dispositivo de controle da reunião;
-   6. “ata” refere-se ao conteúdo descritivo das discussões e decisões tomadas na reunião;
-   7. “presidente da mesa” e “secretário da mesa” referem-se aos Associados Individuais que assumirão a responsabilidade sobre a mesa e posteriormente sobre a ata da reunião.
-8.2. As deliberações tomadas na reunião deliberativa vinculam a todos da comunidade de interesse, ainda que ausentes ou discordantes.
-8.2.1. Convenciona-se na OSM Brasil que o termo “quorum” designa a quantidade votos favoráveis necessários para aprovação de uma pauta de reunião deliberativa.
-   1. Essa quantidade não pode ser definida de forma arbitrária, ela precisa ser definida com rigor, assim como a classificação das pautas, garantindo que o quorum seja conhecido automaticamente a partir da classificação expressa no edital de convocação. 
-   2. A taxonomia das pautas deve ser sempre taduzida em dois parâmetros numéricos padronizados, o “quorum percentual de convocação”, referente ao total absoluto de membros votantes, e o “quorum percentual de votação”, referente ao total de presentes na votação, regulamentados pelo anexo A.1.6.
-8.3. O edital de convocação da reunião deliberativa deve ser publicada no DOO (cláusula 1.3.2) com cópia da matéria enviada na mesma data por notificação para toda a comunidade de interesse. O edital deve ser escrito de forma clara e objetiva, constando minimamente de:
-   1. título iniciado pelo rótulo de tipo de convocação, por exemplo "Assembleia Geral Extraordinária", ou "Reunião Deliberativa da Equipe de Organização do State of the Map LatAm";
-   2. número sequencial relativo às convocações de mesmo tipo na história da OSM Brasil desde sua fundação;
-   3. pauta (sequencia de itens de pauta devidamente classificados e com quorum destacado);
-   4. grupo de interesse (ex. conselheiros fiscais são os interessados numa reunião do conselho), seu número de membros e o quorum associado;
-   5. comprovante de validade da convocação (ex. assinatura do presidente ou lista dos solicitantes da convocação);
-   6. descritores da mesa (identificador de canal da teleconferência, nome do associado que se voluntariou como “presidente da mesa”, localização física da mesa).
-8.3.1. Quando não houver data e hora obtidos previamente por consenso, o seguinte procedimento deve ser realizado:
-   1.  uma a convocação com o subtítulo “consulta de agenda” deve ser publicada sem o item F, e com prazo para que os interessados cheguem a um consenso ou votem a melhor data (ex. Doodle), dentro da semana ou período solicitado;
-   2. a convocação com item F, presidente da mesa e data definida é publicada oficialmente.
-8.4. Todo o processo exigido pelas cláusulas 8.1 a 8.3 pode ser automatizado desde que o mecanismo de votação seja previamente testado e homologado pelo Conselho Fiscal, as interfaces descritas no Regimento Interno, e todo o conjunto aprovado por 2/3 (dois terços) em assembléia especialmente convocada para esse fim.
-8.4.1. Ao longo do primeiro ano de uso, após aprovação e implantação, a automação poderá ser revogada por Assembleia convocada por 1/3 dos associados.
-9. Processos seletivos e eleitorais
-{mover complexidade pro Regimento Interno?}
-9.1. A distribuição de cargos entre membros de um grupo da OSM Brasil deve ser realizada por critérios objetivos e através de processos transparentes. O processo de seleção pode envolver critérios de preferencia da maioria ou critérios de mérito, baseados no histórico de atividades e contribuições do candidato no período que precede a seleção.
-9.1.1. Os cargos permitidos permitidos são aqueles listados no A1.4.
-9.2. Processos baseados em 1-associado-1-voto
-9.2.1. Procedimento obrigatórios para os cargos do Conselho Diretor, do Conselho Diretor Regional, do Conselho Fiscal e para o cargo de Presidente do Conselho das Iniciativas, ou ainda outros designados pelo Regimento Interno.
-9.2.2. O proceosso inicia com a composição de uma Lista de Candidatos, detalhada no Anexo  ??. 
-   1. Associados indicam 3 outros associados que considera de sua confiança para cada Conselho.
-   2. A partir do resultado das indicações, a cada Conselho, os mais votados são sendo convidados a se tornarem candidatos, até que complete uma lista de 5 candidatos confirmados a cada Conselho.
-   3. O edital de eleições é publicado e transcorrem as eleições, com base em 1-associado-1-voto para cada cargo.
-9.3. Processos baseados em volume de contribuição
-9.3.1. Exclusivamente na Plataforma de Iniciativas, onde a decisão por se iniciar uma nova iniciativa depende principalmente da existência de subsídios. Tipicamente iniciativas incubadas se tornam iniciativas maduras a partir do aporte financeiro e/ou horas profissionais.
-9.3.2. O voto quadrático baseado em contribuição (raiz quadrada da soma das contribuições já convertidas em equivalente financeiro na taxa do dia da conversão) é permitido nas seguintes pautas, restritas a esse modo de decisão, e consumindo-se o voto em seguida ao uso (fica restrito depois ao acumulado histórico):
-   1. Alavancar iniciativas incubadas a partir de contribuições. São eleitas as iniciativas de maior contribuição: os votos de contribuição financeira são alocáveis para qualquer iniciativa, os votos de contribuição voluntária (horas de tabalho) são restritos à iniciativa onde já se contribuiu. 
-   2. Alavancar correçoes (ex. bugs de software) ou sub-iniciativas (ex. novo módulo de software) a partir das contribuições. 
-10. Disposições Finais
-10.1. A OSM Brasil se submete às normas e compromissos previstos pelo “Marco Regulatório do Terceiro Setor” (Lei Nº 13.019/2014), pela “Lei das OSCIPs” (Lei nº 9.790/1999) e prerrogativas do “Marco Civil da Internet” (Lei Nº 12.965 de 2014).
-10.1.1. Na hipótese da OSM Brasil perder a qualificação de OSIP, o respectivo acervo patrimonial disponível, adquirido com recursos públicos durante o período em que perdurou aquela qualificação, será transferido a outra OSIP, preferencialmente que tenha o mesmo objeto social.
-10.1.2. Para efeitos de interpretação deste Estatuto no escopo do artigo 3° da Lei das OSCIPs, considera-se a atuação e objetivos sociais da OSM Brasil compatíveis com os itens II, III, VII, IX, X, XI, XII e XIII.
-10.2. Os associados não respondem, nem mesmo subsidiariamente, pelas obrigações sociais. 
-10.3. O exercício social iniciará em 1º de janeiro e terminará em 31 de dezembro de cada ano, com prazo de até três meses para ser lançado o balanço anual. 
-10.4. As regras de governança detalhadas pelo Regimento Interno, no que se refere à auditoria fiscal, convocação e condução de assembleias, reuniões de Conselho, redação de atas, etc. deverão se inspirar no "Manual das Sociedades Anônimas" (Instrução Normativa JUCESP n 100 de 2006).
-10.5. Dados da ficha cadastral com solicitação de sigilo, dados pessoais mantidos por sistemas da OSM Brasil (tais como senhas e logs de utilização) e backups da comunicação institucional são considerados dados sigilosos do Associado, cada qual com seu respectivo grau de confidencialidade tratamento fixado pelo Regimento Interno.
-10.6.​ Disputas podem fazer uso das provas digitais online certificadas, conforme fixado pela Lei 11.341 de 2006.
-10.7. Os casos omissos ou duvidosos no presente Estatuto serão resolvidos, nesta ordem com recurso para instâncias superiores: Diretoria ou coordenação específica, Presidente, Conselho Fiscal, Assembleia.
-
-
-ANEXO
-Por hora tudo o que deixar o Estatuto complicado vira Regimento Interno.
-{LINK PROPOSTA REGIMENTO INTERNO}
-PS: o Regimento Interno pode ser sempre melhorado em assembleia sem quorum maior, e sem necessidade de registrar em cartório.
-
-
-Outra opção, ao invés de “jogar tudo no Regimento”, é o Estatuto declarar neste anexo um “resumo oficial” para quem precisa ler mas não tem tempo, contendo apenas o que todos reconhecemos como essência da Associação, em 10 parâgrafos e algumas ilustrações.
-{LINK PROPOSTA RESUMO OFICIAL}
+8.1. O rito de convocação e demais procedimentos para a realização de assembleias e reuniões deliberativas de conselhos, dito “Processo deliberativo”, deve cumprir as instruções deste Estatuto, com detalhes regulamentados pelo Regimento.
+8.2. A distribuição de cargos entre membros dos órgãos da OSM Brasil deve ser realizada por critérios objetivos e através de processos transparentes. O dito “processos seletivo e eleitoral” pode envolver critérios de preferencia da maioria ou critérios de mérito, baseados no histórico de atividades e contribuições do candidato no período que precede a seleção.  Deve cumprir as instruções deste Estatuto, com detalhes regulamentados pelo Regimento.
+8.3. As regras de governança detalhadas pelo Regimento, no que se refere à auditoria fiscal, convocação e condução de assembleias, reuniões de Conselho, redação de atas, etc. deverão se inspirar no "Manual das Sociedades Anônimas" (Instrução Normativa JUCESP n 100 de 2006), bem como nas boas práticas relativas à democracia líquida e gestão online, defendidas pelo Conselho Fiscal.
+9. Disposições Finais
+9.1. A OSM Brasil se submete às normas e compromissos previstos pelo “Marco Regulatório do Terceiro Setor” (Lei Nº 13.019/2014), pela “Lei das OSCIPs” (Lei nº 9.790/1999) e prerrogativas do “Marco Civil da Internet” (Lei Nº 12.965 de 2014).
+9.1.1. Na hipótese da OSM Brasil perder a qualificação de OSIP (Lei 9790/99), o respectivo acervo patrimonial disponível, adquirido com recursos públicos durante o período em que perdurou aquela qualificação, será transferido a outra OSIP, preferencialmente que tenha o mesmo objeto social.
+9.1.2. Para efeitos de interpretação deste Estatuto no escopo do artigo 3° da Lei 9.790, considera-se a atuação e objetivos sociais da OSM Brasil compatíveis com os itens II, III, VII, IX, X, XI, XII e XIII.
+9.3. Os associados não respondem, nem mesmo subsidiariamente, pelas obrigações sociais. 
+9.4. O exercício social iniciará em 1º de janeiro e terminará em 31 de dezembro de cada ano, com prazo de até três meses para ser lançado o balanço anual.
+9.5.​ Considerando-se que o presente Estatuto ainda requer revisões finais, fica por esta cláusula prevista a convocação, em no máximo 2 anos após a assembleia de fundação, de Assembleia Geral Estatuinte, para aprovar modificações neste Estatuto e eliminação desta cláusula.
+9.6.​ Disputas podem fazer uso das provas digitais online certificadas, conforme fixado pela Lei 11.341 de 2006.
+9.7. Os casos omissos ou duvidosos no presente Estatuto serão resolvidos, nesta ordem com recurso para instâncias superiores: Diretoria ou coordenação específica, Presidente, Conselho Fiscal, Assembleia.

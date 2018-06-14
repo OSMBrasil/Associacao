@@ -1,8 +1,4 @@
-﻿(proposta em construção)
-Estatuto Social da
-OpenStreetMap Brasil
-(texto rascunho versão 0.2.9e)                           (rascunho completo, porém desatualizado e não-revisado AQUI)
-PS: para dúvidas ver (desatualizado) FAQ-ilustrado.
+Estatuto Social da OpenStreetMap Brasil
 
 
 1. Denominação, sede e duração        1
@@ -307,73 +303,3 @@ PS: o Regimento Interno pode ser sempre melhorado em assembleia sem quorum maior
 Outra opção, ao invés de “jogar tudo no Regimento”, é o Estatuto declarar neste anexo um “resumo oficial” para quem precisa ler mas não tem tempo, contendo apenas o que todos reconhecemos como essência da Associação, em 10 parâgrafos e algumas ilustrações.
 {LINK PROPOSTA RESUMO OFICIAL}
 
-
-
-
-[a]Realmente, "aturará de forma coordenada" é muito forte. Uma forma melhor de escrever é "poderá atuar em conjunto ou de maneira articulada com instituições com mesmos objetivos...".
-Porem, tirando a OSMF, nenhuma das outras organizações citadas estava presente no questionário de votação sobre o tema.
-Essas organizações foram acrescentadas pelos redatores do texto.
-Sugiro que se reescreva a clausula citando explicitamente apenas a OSMF.
-[b]Acolhendo a sugestão.
-[c]"atuará de forma coordenada" é muito forte; só deve por obrigação atuar de forma coordenada com a OSMF; de resto poderá apenas colaborar
-[d]_Marcada como resolvida_
-[e]_Reaberta_
-[f]Alguma explicação?
-[g]Foi apenas um erro. Queria comentar e acabei clicando em 'resolver'.
-[h]Certo :-)
-[i]Realmente, "aturará de forma coordenada" é muito forte. Uma forma melhor de escrever é "poderá atuar em conjunto ou de maneira articulada com instituições com mesmos objetivos...".
-Porem, tirando a OSMF, nenhuma das outras organizações citadas estava presente no questionário de votação sobre o tema.
-Essas organizações foram acrescentadas pelos redatores do texto.
-Sugiro que se reescreva a clausula citando explicitamente apenas a OSMF.
-[j]Acolhendo a sugestão.
-[k]Isso é uma obrigação legal? Se não for, não deveríamos obrigar o registro em cartório. Serviços de cartório nunca são baratos.
-[l]o contador vai nos confirmar se é apenas a anual (ordinária) ou todas as assembleias. Esta previsto usar serviços oficiais baratos como http://uniproof.com.br
-[m]O que realmente se pretende com essa clausula?
-[n]Ficou pendente o anexo explicando... Podemos deletar.
-
-
-Houve reclamação, e existem de fato leis sobre guardar dados pessoais... Como exigimos transparência na identificação pessoal, uma das soluções seria mostrar o hash dos dados pessoais (ex. hash do CPF com data de nascimento que são dados que não gostamos de divulgar). Enfim, transparencia e "identificação confiavel com sigilo" precisam ser conciliados.
-[o]A clausula 1.22 cita muita coisa. Precisamos ser explicitos. Quem garante que essas instituições não vao reformular seus conceitos?
-[p]Sugiro deletar esta cláusula por hora.
-[q]Essa separação dos objetivos em "educacionais e difusão" e "institucionais" não fez parte da votação que definiu os objetivos. Por isso, os objetivos não deveriam serem separados dessa forma.
-[r]Sim, faz sentido o que pede. 
-À redação, de qualquer forma, coube nesta etapa de "construir do zero", tem um amplo direito de adaptação. Outras pessoas acham que faz sentido apresentar objetivos em grupos:  por exemplo para especificar competênciais  Diretoria de Difusao, ou  divisões nos grupos de Iniciativas da Plataforma de Iniciativas.
-PS: reforce novamente este pedido na consulta publica quando o texto estiver finalizado.
-[s]Bem, então, não há razão para manter a redação de forma.
-[t]Não entendi, mas   a partir desta revisão mais participativa o texto da consulta pública será um pouco mais fiel ao consenso.
-[u]Não deve fazer parte e nem ser objetivo; vai gerar complicação e dar brecha pra muita coisa. Qualquer um vai poder incubar o que bem entender? Quem vai decidir? Vai poder ganhar dinheiro em cima da estrutura mantida pelos associados?
-[v]Não exagere e cuidado para não concluir que a Associação serve apenas ao seus anseios. Há muita diversidade a ser regulada pela Assembleia... E ha casos de consenso, a organização da LatAm por exemplo demanda grana e cairia na conta bancária do CNPJ da Associação. Esse foi um objetivo bem votado, precisaria ficar... Mas sim, para responder  a essas perguntas o Estatuto fica muito mais complexo... De fato perdemos tempo na redação: criamos dezenas de cláusulas de defesa que tornam o Estatuto e/ou Regimento Interno complexo. 
-A decisão parece ser "DELETAR POR HORA" a complexidade até que a associação seja madura e se canse de pagar taxas para plataformas de crowdfunding e coisas do tipo.
-[w]A cláusula 1.2.2 não refere nenhuma aplicação de internet especifica.
-[x]refere sim, "... mantenedora do OpenStreetMap Project (OpenStreetMap.org) e das aplicações de internet utilizadas e pelos membros da OSM Brasil".
-Estamos evitando citar explicitamente URLs, e o termo "aplicação de internet" é hoje um termo jurídico, conforme adotado pelo Marco Civil citado no inicio.
-[y]A 1.22 tem muita coisa. Cita várias "aplicações", ou seja, não cita UMA aplicação em especifico. Assim, a 3.1 se refere a todas elas. A 1.22 tem que ser explicita. Tem que evitar ficar fazendo referência a outras clausulas, para evitar má interpretação. Da forma como está, alguém com conta no osmgeo.org pode se candidatar a associado.
-[z]hum... faz sentido, mas para isso serve o Regimento Interno, ele pode explicitar URL...O Regimento  precisa ser aprovado em assembleia com menos votos que o Estatuto, mas so pode regulamentar/detalhar, nao pode inventar.
-[aa]É bizarro exigir indicação e aprovação por unanimidade. Devemos reformular isso.
-[ab]É uma exigência de consenso, e consenso de apenas 3 pessoas eleitas para esse fim. Veja a definição de Conselho Fiscal.
-[ac]Não deve ter indicação e nem aprovação, ainda mais a cada 6 meses; isso não é maçonaria mas uma comunidade que deve procurar ser aberta
-[ad]sim, talvez exagero e precisamos decidir deletar clausulas como essa de mera defesa contra abusos ou ataques de manadas... eu sugiro trocar por "aprovacao final em assembleia" e explicitando que é apenas uma defesa contra hipoteticos ataques, vota-se se houve ou nao ataque.
-[ae]Deveria ser maior; se não conseguir pelo menos 20 pessoas no Brasil inteiro como associados então o negócio está fadado a não ir pra frente nunca
-[af]ok, alterado
-[ag]elementos da Democracia Liquida
-[ah]Temos que lembrar que será uma associação com membros dispersos. Abaixo-assinado, no sentido comum, não é viável.
-[ai]é digital. pode ser regulamentado no Regimento como manifestacao no Talk-BR ou no Forum...
-[aj]mudei para "manifestacao" e sem citar Regimento Interno já que estamos simplificando tudo e ficará sempre implícita a regulamentação.
-[ak]Isso implica que um associado não pode manifestar contrariedade publicamente a atuação da associação. Acho que não devemos manter isso no texto.
-[al]deletar ou trocar a palavra "prestigiar" por algo como "difundir"?
-[am]Fica esquisito tratar como patrimonio da associação, dados públicos.
-[an]É a lei dos direitos autorais, e até mesmo a questão dos documentos oficiais. As associações criam cartas, manifestos, algoritmos... O CNPJ será dono no sentido de licença CC-BY, usar licença CC0 seria desnecessariamente aberto, e a Associação perderia o controle sobre seus posicionamentos, incentivos, etc.
-[ao]Citar artigo especifico de lei é problematico. O artigo pode sofrer alterações com o tempo. Dai o estatuto fica desatualizado.
-[ap]Buscar no Google outros estatutos brasileiros, este caso particular tem sido praxe entre associaçoes, e advogados recomendam manter a tradição para não surgirem barreiras na hora de assinar algum convenio ou acordo de cooperação.
-[aq]Não faz sentido permitir que regimento altere a composição de um conselho que é eleito pelo assembleia, orgão maximo da associação.
-[ar]Aqui nasce o problema da complexidade: ainda estavamos em duvida sobre o que fazer, engessar ou não... A partir de agora estamos decidindo lançar a associação com estrutura enxuta e ir criando complexidade por demanda.. Daqui 1 ano está mais madura e podemos então lançar a versão final do "Estatuto complexo e engessado", porém muito mais legitimo e eventualmente bem testado.
-[as]Que "iniciativas" são essas que são tanto citadas no texto?
-[at]Estavamos discutindo isso, ficou meio complexo, mas continua sendo o mecanismo a ser adotado. Parece que no Estatuto Enxuto vai ficar sem citar isso ... Para organizar uma LatAM por exemplo os patrocinadores doam por exemplo num projeto http://juntos.com.vc aprovado por assembleia.
-
-
-Não importa se plataforma externa de crowdfounding ou se plataforma internalizada (apelidamos antes de Plataforma das Iniciativas)... Ambos são para que a grana não fique integralmente na mão do corpo diretor (lento, centralizado e com conflitos de interesse), mas salte direto para as equipes de iniciativas aceitas (direta ou indiretamente) pela Assembleia Geral. 
-A maioria dos objetivos da Associação vai precisar de dinheiro, disso não temos duvida: a duvida era como gerenciar esse dinheiro.
-[au]Não deveria ter esse tipo de voto; como vai medir "contribuição"?
-[av]Acho que vamos deletar isso por hora, é o lado "meritocracia" das Iniciativas... como colocado acima, não é preciso internalizar o abacaxi, podemos jogar a gestão da grana das iniciativas com   http://juntos.com.vc  ou similar igualmente barato.
-[aw]Já está previsto no item 7.2.2 (J).
-[ax]Obrigado, vou então deletar daqui e realocar pedaços. 10.2.2 foi para cima como 10.1.1 e a atual 10.2.1 encaixo na clausula 6. Resolvido?

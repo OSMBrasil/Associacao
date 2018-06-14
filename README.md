@@ -1,12 +1,12 @@
 # Associacao
 Repositório para preservação e gestão das atualizações dos documentos e dados oficiais da Associação OSM Brasil
 
-Confira a "home da Associação" para maiores detalhes, https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associa%C3%A7%C3%A3o
+Para maiores informações, confira a "home da Associação" em [wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associação](https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associa%C3%A7%C3%A3o).
 
 ## Organização dos backups e originais
 * Na Wiki manter resumos e extratos consolidados, a `wiki.openstreetmap.org` continua sendo a principal referência.
 * No google-docs manter apenas os "documentos em construção" ou cópia para geração de multiplos formatos (PDF, docx, etc.)
-* Documentos oficiais devem ser mantidos em formato [*markdown `gfm`*](https://pandoc.org/MANUAL.html) (Github-Flavored Markdown) neste repositório, <br/>depois de convertidos por `pandoc -f html-native_divs-native_spans -t gfm` do HTML salvo pelo Google-doc.  
+* Documentos oficiais devem ser mantidos em formato [*markdown `gfm`*](https://pandoc.org/MANUAL.html) (Github-Flavored Markdown) neste repositório, <br/>depois salvos como TXT e HTML pelo Google-doc (e convertidos para `.md` pelo `pandoc`).  
 * Dados oficiais devem ser mantidos em formato CSV e descritos por `datapackage.json` conforme [padrão FrictionlessData](https://frictionlessdata.io/specs/), podendo ser diretamente baixados do Google-spreadsheet.
 
 ## Organizaçao das pastas deste repositório

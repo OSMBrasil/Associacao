@@ -15,11 +15,11 @@ Para maiores informações, confira a "home da Associação" em [wiki.openstreet
 
 ## Organização das pastas deste repositório
 
-* [**`docs`**](docs) = documentos markdown oficiais ou históricos (prova de existência) organizados por tema. <br/>Principais commits resumidos no TXT: [diff v0.3.1](https://github.com/OSMBrasil/Associacao/commit/87bea472957ffa5aba3c6c59cdf430b58afa7d65), ...  <br/>Interfaces para edição colaborativa:
-   - [gdoc do `estatuto~v0_3`](https://docs.google.com/document/d/1NRKuSBQ1R3FeeUa1jiAm9FlIHMHAwIPy_yiQxtk1OcI/), rascuhos v0.3.X do Estatuto.    
+* [**`docs`**](docs) = documentos markdown oficiais ou históricos (prova de existência) organizados por tema. <br/>Interfaces para edição colaborativa:
+   - [gdoc do `estatuto~v0_3`](https://docs.google.com/document/d/1NRKuSBQ1R3FeeUa1jiAm9FlIHMHAwIPy_yiQxtk1OcI/), rascuhos v0.3.X do Estatuto.    <br/>Principais commits resumidos no TXT: [diff v0.3.1](https://github.com/OSMBrasil/Associacao/commit/87bea472957ffa5aba3c6c59cdf430b58afa7d65), ... 
 
 * [**`data`**](data) = dados CSV homologados pelo [Goodtables](https://goodtables.io). Interfaces para edição colaborativa:
-   - [rodadas](https://docs.google.com/spreadsheets/d/1SRDBxdaOn78dqAzXK4TbJMReCBUGrBBc0PHpX-a5c6I/) de discussão estruturada e votação, todas as planilhas disponíveis ao público (dados não-sigilosos).
+   - [planilha gdoc das **rodadas**](https://docs.google.com/spreadsheets/d/1SRDBxdaOn78dqAzXK4TbJMReCBUGrBBc0PHpX-a5c6I/) = Resultados das "rodadas de discussão estruturada e votação", todas as planilhas disponíveis ao público (dados não-sigilosos).<br/>Backup nos arquivos `data/rodada*.csv`  sumarizados em [`rodadas_info.txt`](data/rodadas_info.txt).
 
 * [**`assets`**](data) = imagens e outros recursos dos docs.
 

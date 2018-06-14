@@ -1,0 +1,21 @@
+PLANILHAS DOS RESULTADOS DE EVENTOS PREPARATÓRIOS DA ASSOCIACAO OSM BRASIL	
+	Backup de todos os dados em formato aberto, ver também
+	https://github.com/OSMBrasil/Associacao
+	As planilhas (por hora) são todas relativas a resultados de postagens Google-form.
+	
+rodada3	https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associação/Rodada/3
+data-hora	carimbo de data e hora
+user_2letras	nome de usuário-OSM anonimizado (duas letras)
+uf	unidade da federação onde reside
+	
+rodada4_1	https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associação/Rodada/4.1#RESULTADOS
+data-hora	carimbo de data e hora
+user_osm	nome de usuário-OSM
+P1	Pergunta-1, rótulo e enunciado
+...	... demais perguntas
+	
+rodada4_2	https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associação/Rodada/4.2#RESULTADOS
+data-hora	carimbo de data e hora
+user_osm	nome de usuário-OSM
+P1	Pergunta-1, rótulo e enunciado
+...	... demais perguntas

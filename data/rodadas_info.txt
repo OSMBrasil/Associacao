@@ -12,10 +12,10 @@ rodada4_1	https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associação/Ro
 data-hora	carimbo de data e hora
 user_osm	nome de usuário-OSM
 P1	Pergunta-1, rótulo e enunciado
-...	... demais perguntas
+...	... demais perguntas.
 	
 rodada4_2	https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associação/Rodada/4.2#RESULTADOS
 data-hora	carimbo de data e hora
 user_osm	nome de usuário-OSM
 P1	Pergunta-1, rótulo e enunciado
-...	... demais perguntas
+...	... demais perguntas.

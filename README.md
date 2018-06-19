@@ -29,7 +29,7 @@ Para maiores informações, confira a "home da Associação" em [wiki.openstreet
 
 ## Preparo
 
-* use `git config --global core.autocrlf input` para garantir final de linha padrão Linux nos arquivos de código-fonte (.txt, .csv, .html, etc.).
+* use `git config --global core.autocrlf input` para garantir final de linha padrão Linux nos arquivos de código-fonte (.txt, .csv, .html, etc.). Ver também [.gitattributes](https://stackoverflow.com/a/40821931/287948).
 * converter de HTML para markdown com `pandoc -f html-native_divs-native_spans -t gfm`.
 * ...
 

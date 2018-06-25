@@ -8,7 +8,7 @@ Resultados de enquetes, votações, tomadas de preço, planilhas contábeis, etc
 
 * arquivos `*.txt` são arquivos TXT de apoio, com alguma descrição complementar temporária, a ser convertida para YUML ou JSON. Por exemplo `rodada_info.txt` descreve os campos das planilhas `rodada*.csv`.
 
-* arquivo [`_sha256d-sum.txt`](_sha256d-sum.txt) é a [soma de verificação](https://en.wikipedia.org/wiki/Checksum) SHA3 de reforço para cumprir os mais altos padrões de [preservação digital](https://en.wikipedia.org/wiki/Digital_preservation) e prova de existência. <br/>PS: por estarem em *git* totos os arquivos deste repositório já usam *checksum* SHA1, porém isso não satisfaz os padrões de preservação, por ser uma *hash* calculada com "nonce" e, principalmente, por ser SHA1 considerada nos dias de hoje insuficiente (SHA3 é mais seguro).
+* arquivo [`_sha256d-sum.txt`](_sha256d-sum.txt) é a [soma de verificação](https://en.wikipedia.org/wiki/Checksum) do padrão [DoubleSHA256 dos cartórios brasileiros](http://www.uniproof.com.br#valide-hash). É um reforço para cumprir os padrões de [preservação digital](https://en.wikipedia.org/wiki/Digital_preservation) e prova de existência. <br/>PS: todos os arquivos de um repositório *git* já usam *checksum* SHA1, porém isso não satisfaz os padrões de preservação, por ser uma *hash* calculada com "nonce" e, principalmente, por ser [SHA1 insuficiente](http://alf.nu/SHA1) nos dias de hoje (SHA256 é mais seguro como prova de unicidade e existência). Juntas [SHA1 e SHA256 se reforçam](https://crypto.stackexchange.com/a/44281/42893).
 
 -----
 

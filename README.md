@@ -21,7 +21,7 @@ Para maiores informações, confira a "home da Associação" em [wiki.openstreet
 
 * [**`data`**](data) = dados CSV homologados pelo [Goodtables](https://goodtables.io). Interfaces para edição colaborativa:
    - `rodada*.csv` =  planilhas dos resultados de todas as votações ou inscrições relativas às "[rodadas de discussão estruturada](https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Associação/Rodadas)" e  disponíveis ao público (dados não-sigilosos).
-   - `*.txt` = arquivos de apoio, tais como `rodadas_info.txt` descrevendo os campos das planilhas `rodada*.csv`, ou arquivo [`_sha256d-sum.txt`](_sha256d-sum.txt) com a [soma de verificação](https://en.wikipedia.org/wiki/Checksum) SHA3 de reforço para cumprir padrões de [preservação digital](https://en.wikipedia.org/wiki/Digital_preservation) e prova de existência.
+   - `*.txt` = arquivos de apoio, tais como `rodadas_info.txt` descrevendo os campos das planilhas `rodada*.csv`, ou arquivo [`_sha256d-sum.txt`](_sha256d-sum.txt) com a [soma de verificação](https://en.wikipedia.org/wiki/Checksum) do padrão [DoubleSHA256 dos cartórios brasileiros](http://www.uniproof.com.br#valide-hash) de reforço para cumprir padrões de [preservação digital](https://en.wikipedia.org/wiki/Digital_preservation) e prova de existência.
 
 * [**`assets`**](data) = imagens originais (alta resolução ou vetorial) e outros recursos utilizados na composição dos documentos da pasta *docs*.
 

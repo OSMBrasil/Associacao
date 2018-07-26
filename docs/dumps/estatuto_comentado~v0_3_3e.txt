@@ -74,7 +74,7 @@ ________________
 3.3. A admissão do Associado estará sujeita nos primeiros 6 meses a pedidos de verificação de qualquer outro associado, suspendendo temporariamente a admissão até que o Conselho Fiscal ou Assembleia Geral possam se manifestar a respeito de uma das seguintes eventuais irregularidades:
 1. falha ou inconsistência nos dados cadastrais;
 2. evidências de conflito de interesse;
-3. risco de formação de maioria em órgãos de governança (cl. 7) no instante da admissão, demandando parcelamento no fluxo de admissões, conforme critérios objetivos fixados pelo Regimento.
+3. risco de formação de maioria em órgãos de governança (cl. 7) no instante da admissão, demandando parcelamento no fluxo de admissões[a][b][c][d], conforme critérios objetivos fixados pelo Regimento.
 3.4. O Associado ingressante deve também assinar o Termo de Adesão, fixado pelo Regimento.
 3.4.1. Toda mudança de status ou cargo do Associado deve ser publicada no DOO (cl. 1.3.3). Quando não houver disposto em contrário, a data de publicação é a data de início de vigência do novo status.
 3.5. O número de associados da OSM Brasil é ilimitado, podendo cada membro permanecer como associado por tempo indeterminado, desde que se mantenha em dia com os deveres previstos neste Estatuto.
@@ -85,7 +85,7 @@ ________________
 4.1. São direitos dos Associados Individuais:
 1. participar, manifestar-se e votar nas Assembleias Gerais, com opções de designar um procurador para as Assembleias do período em que planeja se ausentar, ou registrar previamente procuradores por tema ou por pauta.
 2. candidatar-se para cargos eletivos e a representação de Associados Institucionais.
-4.2. As cláusulas a seguir elencam os demais direitos dos Associados, Individuais e Institucionais.
+4.2.[e][f][g] As cláusulas a seguir elencam os demais direitos dos Associados, Individuais e Institucionais.
 4.2.1. Ter acesso a todas as informações pertinentes à Associação, bem como ser informado em tempo dos atos e convocações.
 1. O Associado Institucional tem direito a solicitar cópia de notificações oficiais privativas, bem como dados privativos de identificação do seu representante ou procurador.
 4.2.2. Envolver-se em Iniciativas (cl. 2.4), destinando-lhes a fração desejada de suas contribuições-extra ou de suas horas (cl. 6.1.3), bem como:
@@ -167,7 +167,7 @@ Legislativo e Jurídico - todos / alinhamentos entre Iniciativas / semestral.
 	
 
 7.1.1. A Assembleia das Iniciativas e a Assembleia Regional (na respectiva região) não são órgãos obrigatórios, podendo ser criados ou destituídos a qualquer tempo por Assembleia Geral.
-7.1.2. Os conselhos Diretor, Fiscal e a Assembleia das Iniciativas respondem, dentro das respectivas competências, apenas à Assembleia Geral. Cada um deles delibera de forma independente.
+7.1.2[h][i][j][k]. Os conselhos Diretor, Fiscal e a Assembleia das Iniciativas respondem, dentro das respectivas competências, apenas à Assembleia Geral. Cada um deles delibera de forma independente.
 7.1.3. O Corpo Gestor previsto pela cl. 1.3.1 é o conjunto composto pelos cargos titulares do Conselho Diretor, do Conselho Fiscal e, quando existirem, os coordenadores das Iniciativas. 
 1. Os cargos do Corpo Gestor devem ser preenchidos por pessoas que satisfaçam plenamente as exigências da cl. 1.2.3, expressas pelo item VII do Art. 39 da Lei 13.019; bem como fornecedores envolvidos em tarefas contábeis ou administrativas.
 7.1.4. Os seguintes cargos titulares (exclui-se suplentes), com direito a voto nas deliberações, são de responsabilidade única, ou seja, não podem ocupar mais do que um acento entre estes cargos:
@@ -177,7 +177,7 @@ Legislativo e Jurídico - todos / alinhamentos entre Iniciativas / semestral.
 4. Coordenador de Iniciativa.
 7.1.5. A decisão por um ou outro entre dois ou mais cargos conflitantes — conforme cláusula anterior ou em conflitos geral/regional — deve ser tomada durante as eleições (cl. 8) pelo candidato eleito, para que o seguinte mais votado possa assumir como substituto.
 1. Deve-se facilitar no ambiente eleitoral as decisões complementares, por exemplo o coordenador de uma iniciativa ao abandonar o cargo para poder assumir como conselheiro, pode solicitar garantia de que poderá assumir o cargo de zelador da mesma iniciativa.
-7.1.6. A título de renovação, ocupantes de cargos no Conselho Fiscal ou Conselho Diretor não podem permanecer por mais do que 3 (três) anos consecutivos em qualquer que seja o cargo, exceto pelo caso do quarto ano ser completado como (no máximo terceiro de) presidente.
+7.1.6. A título de renovação, ocupantes de cargos no Conselho Fiscal ou Conselho Diretor não podem permanecer por mais do que 3 (três) anos consecutivos em qualquer que seja o cargo, exceto pelo caso do quarto ano ser completado como (no máximo terceiro de) presidente.[l][m]
 7.1.7. O Presidente do Conselho Diretor é também porta-voz da OSM Brasil e será eleito ou reeleito a cada Assembleia Geral Ordinária com base na  avaliação de desempenho e preferências, entre os Diretores Gerais e Conselheiros Fiscais avaliados.
 1. A avaliação de desempenho será realizada em conformidade com o Regimento. Em caso de empate, assume o que esteve menos tempo como presidente ou, havendo ainda empate, segue-se a ordem dos associados no Livro de Matrícula.
 2. Caso necessário aplica-se a regra da cl. 7.1.5 para que a vacância de cargo criada com a eleição do novo presidente seja preenchida.
@@ -210,7 +210,7 @@ Legislativo e Jurídico - todos / alinhamentos entre Iniciativas / semestral.
 6. efetuar modificações corretivas no Regimento ou, com apoio do Conselho Diretor, modificações perfeitivas, bem como sugerir para a Assembleia modificações no Estatuto; 
 7. acompanhar o trabalho de eventuais auditores externos independentes.
 7.4. Conselho Diretor
-7.4.1. O Conselho Diretivo é o órgão social administrativo, representativo e executor da Associação, colegiado e eleito pela Assembléia Geral, sendo composto por três titulares (cl. 7.1.1.A) e respectivos suplentes.  Para cargos titulares os mandatos individuais de no máximo 03 (três) anos ininterruptos.
+7.4.1[n][o]. O Conselho Diretivo é o órgão social administrativo, representativo e executor da Associação, colegiado e eleito pela Assembléia Geral, sendo composto por três titulares (cl. 7.1.1.A) e respectivos suplentes.  Para cargos titulares os mandatos individuais de no máximo 03 (três) anos ininterruptos.
 7.4.2. Serão permitidas jurisdições regionais do Conselho Diretor quando devidamente regulamentadas pelo Regimento Interno, conforme denominações e delimitações oficiais:
 1. Escala Federal (Norte, Nordeste, Centro-oeste, Sudeste e Sul);
 2. Escala Estadual (todos estados);
@@ -230,7 +230,7 @@ Legislativo e Jurídico - todos / alinhamentos entre Iniciativas / semestral.
 2. sugerir alterações no Regimento pertinentes a suas atividades;
 3. servir de instância intermediária para as cláusulas 4.2.2, 4.2.3.D, 4.3.A, 4.6, 6.1.3, 6.2.B e 7.2.2.F;
 4. expressar para os Conselhos Diretor e Fiscal sugestões, incluindo a destinação de sobras.
-7.6.2. O peso do voto do Associado poderá ser uma função do montante de suas contribuições no período, quando tal mecanismo for aprovado em Assembleia Geral e regulamentado no Regimento.
+7.6.2. O peso do voto do Associado poderá ser uma função do montante de suas contribuições no período[p][q], quando tal mecanismo for aprovado em Assembleia Geral e regulamentado no Regimento.
 8. Processo deliberativo e eleitoral
 8.1. O rito de convocação e demais procedimentos para a realização de assembleias e reuniões deliberativas dos órgãos (cl. 7), dito “Processo deliberativo”, deve cumprir as instruções deste Estatuto, com detalhes regulamentados pelo Regimento.
 8.1.1.​ É facultado o uso de "reunião deliberativa virtual" e "assembleia virtual", conforme disposto pela ​ Medida Provisória 2.200-2 de 2001​, que no seu Art. 10, § 2º assegura o valor de votações ​online.
@@ -311,3 +311,39 @@ Adendo à cláusula 6.8.
 6.8.3. Demais despesas, que não se enquadram nas cláusulas 6.8.1 ou 6.8.2, devem ser declaradas pelo Conselho Fiscal e aprovadas pela Assembleia Geral.
 Inclusão de nova cláusula:
 6.9. Os membros eleitos para exercerem função nos órgãos que compõem a estrutura da associação, não receberão qualquer tipo de remuneração para os cargos que exerçam.
+[a]Como mensurar este risco ou aplicar esta regra? Entendo a necessidade, mas me parece um pouco vago.
+[b]Quem regulamenta é o Regimento, vamos gastar linhas nele para regulamentar isso.... Acredito que o caso real seja mais associado a "denuncia para o Conselho Fiscal" apurar... Então "medir" tem duas facetas, a objetiva que são as contas de 1+1=2 para se verificar maioria em Assembleia Geral ou Regional; e  a subjetiva, onde entram os critérios que o conselho poderia aplicar para julgamentos mais vagos do tipo "se eles se organizassem formariam uma maioria regional".
+[c]Então não seria o caso de explicitar isso neste item, comentando que os requisitos de admissão de associados são regidos pelo regulamento?
+[d]Acrescentando ... Posso fechar ou mais didático deixar?
+[e]rever número do item
+[f]chi, corrigindo geral as citações ...
+[g]CORRIGIDO mas fica o aviso aqui até eu confirmar que ninguém citou nas respostas da votação.
+[h]Uma das coisas mais importantes na associação é que os associados possam ter um "título" bonito que ofereça representatividade e status para aquele que o tem. Na Câmara de Comercio França Brasil, tem um conselho de administração que se reúne todos os meses com 36 membros, eu acho. Para um advogado, um consultor, um executivo é "Status" poder dizer que é conselheiro da CCIFB. Precisamos ter uma coisa similar. Os representantes dos membros institucionais são membros do conselho automaticamente, o que facilita ter contribuições altas destes membros. Entre os conselheiros se nomeiam os Presidentes e V Presidentes (melhor este titulo que diretor).
+[i]Sim,  está previsto apesar de vir a ser evidenciado apenas no Regimento Interno, num quadro listando e regularizando todos os nomes de cargo e respectivas atribuições. 
+
+
+* Conselho Diretor: todos aqui são "diretor tal", Diretor Tecnico, Diretor de Difusão, Diretor de Educação, ... pode-se acrescentar outros. Todos eles podem ter vice.
+
+
+* Diretorias regionais: tantas quanto o Brasil comportar
+
+
+* Conselheiros: fixados por hora 3 titulares e 3 vices... 
+
+
+* Coordenadores: toda Iniciativa comporta um coordenador.
+
+
+Bom, para inicio, com umas 20 pessoas, todos poderão receber "títulos de nobreza" ;-)
+[j]Excelente!!!
+[k]Para o pontapé inicial acredito estar bom, mas o estatuto pode já prever um Conselho Deliberativo com 30 membros, também renovados em 1/3 anualmente.  Quando o número de associados comportar.  Esta é a estrutura existente na ABES por exemplo, onde sou conselheiro.
+[l]Não está claro, mas do que estendi é que o associado pode ficar no máximo 3 anos com cargo(s) nos conselhos (Fiscal e Diretor) e 4 anos se for eleito presidente, não excedendo 3 anos neste cargo.
+[m]Exato. E repare também na cl. 7.2.2.B, o 1/3. Se forem 9 titulares no Corpo Gestor, serão renovados na base do "entram 3 novos e saem 3 velhos (pipeline)" todo ano, tendo reciclado por completo os 9 no terceiro ano. No Conselho Fiscal por exemplo a todo ano entra 1 e sai 1 titular, perfazendo os 3 no 3o ano.
+[n]Este mandato é de máximo 3 anos também
+[o]isso, acrescentei a frase para reforçar. PS: valendo a renovação de 33%/ano como dito antes.
+[p]Não dá para deixar algo subjetivo asism. Como que se mede "contribuição" para dar maior valor ao peso de uma pessoa?
+[q]Faltou mesmo regulamentar no Anexo. A cláusula 9.5 lembra que será incorporado mais tardar daqui 2 anos... 
+Estou incluindo no anexo: a função mais "bem falada" é  RaizQuadrada(contribuição), 
+veja
+http://ericposner.com/quadratic-voting/
+e lembre-se que as horas  voluntárias também serão reconhecidas como contribuição, conforme cl. 6.1.3.

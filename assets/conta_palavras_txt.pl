@@ -18,7 +18,7 @@ foreach my $f(@ls) {
 	foreach my $palavra( split(/[\s\r\n\t\.\?\!\*\(\):,;="]+/s, $txt) ) {  ## testar
 	  $n_tudo++;
 	  $n++  if ($palavra !~ m/\d/);   # nao-digitos
-	  $n2++ if ($palavra =~ m/^\p{L}[\-\p{L}]+$/);  # nao-digitos e com 2 ou mais letras válidas
+	  $n2++ if ($palavra =~ m/^\p{L}[\-'\p{L}]+$/);  # nao-digitos e com 2 ou mais letras válidas
 	  # debug if (length($palavra)>1 && $palavra !~ m/^\p{L}[\-\p{L}]+$/) {$OUT.= "\n\t\t BUG COM $palavra";}
 	}
 	$OUT .= "\n --- $f ----";

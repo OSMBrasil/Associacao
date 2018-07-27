@@ -1,0 +1,8 @@
+site_name: Estatuto OSM Brasil
+docs_dir: ./docs_estatuto
+pages:
+    - Resumo: index.md
+    - Estatuto: estatuto.md
+    - Anexo: estatuto_anexo.md
+    - Aprovação: processo.md
+

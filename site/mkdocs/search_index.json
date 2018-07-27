@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Estatuto da OSM Brasil v0.4.0\n\n\nAtualizado em 20/7/2018.\n\n\nAQUI TEMOS UM RESUMO!\n\n\nPara maiores detalhes sobre o processo de constru\u00e7\u00e3o do texo do estatuto, ver http://bit.ly/OSM-BR", 
-            "title": "RESUMO"
+            "text": "Estatuto da OSM Brasi\n\n\nAtualizado em 20/7/2018, vers\u00e3o 0.4.0. \n\n\nRESUMO\n\n\n\n\nCl\u00e1usulas \n1.1\n e \n1.2.1\n.\n\n\n\n\nCl\u00e1usula \n1.2.2\n.\n\n\n\n\nCl\u00e1usulas \n2.2 e 2.2\n.\n\n\n\n\nCl\u00e1usulas \n3.1\n e \n3.2\n.\n\n\n\n\nCl\u00e1usula \n1.2.2\n.\n\n\n...\n\n\nPara maiores detalhes sobre o processo de constru\u00e7\u00e3o do texo do estatuto, ver \nprocesso de aprova\u00e7\u00e3o\n.", 
+            "title": "Resumo"
         }, 
         {
-            "location": "/#estatuto-da-osm-brasil-v040", 
-            "text": "Atualizado em 20/7/2018.  AQUI TEMOS UM RESUMO!  Para maiores detalhes sobre o processo de constru\u00e7\u00e3o do texo do estatuto, ver http://bit.ly/OSM-BR", 
-            "title": "Estatuto da OSM Brasil v0.4.0"
+            "location": "/#estatuto-da-osm-brasi", 
+            "text": "Atualizado em 20/7/2018, vers\u00e3o 0.4.0.", 
+            "title": "Estatuto da OSM Brasi"
+        }, 
+        {
+            "location": "/#resumo", 
+            "text": "Cl\u00e1usulas  1.1  e  1.2.1 .   Cl\u00e1usula  1.2.2 .   Cl\u00e1usulas  2.2 e 2.2 .   Cl\u00e1usulas  3.1  e  3.2 .   Cl\u00e1usula  1.2.2 .  ...  Para maiores detalhes sobre o processo de constru\u00e7\u00e3o do texo do estatuto, ver  processo de aprova\u00e7\u00e3o .", 
+            "title": "RESUMO"
         }, 
         {
             "location": "/estatuto/", 
@@ -134,6 +139,21 @@
             "location": "/estatuto_anexo/#regulamentacoes-da-clausula-6", 
             "text": "Adendo \u00e0 cl\u00e1usula 6.5 .  6.5.3. Todas as movimenta\u00e7\u00f5es devem ser assinadas pelos presidentes do\nConselho Diretor e/ou do Conselho Fiscal: por apenas um quando forem\nmovimenta\u00e7\u00f5es descritas no planejamento anual, por ambos quando n\u00e3o.  Adendo \u00e0 cl\u00e1usula 6.8 .  6.8.1. Despesas com suprimentos ou pagamento de terceiros podem ser\nrealizadas apenas quando aprovadas pelo Conselho Fiscal para suprir uma\ndas seguintes finalidades, previamente detalhadas no Regimento Interno:   manuten\u00e7\u00e3o da infraestrutura Web e preserva\u00e7\u00e3o digital de documentos\n    conforme cl. 1.3;  servi\u00e7os cont\u00e1beis e de apoio ao Conselho Fiscal, nas suas\n    compet\u00eancias (cl. 7.3.3).   6.8.2. Doa\u00e7\u00f5es e receitas n\u00e3o-previstas no planejamento anual devem ser\nutilizadas prioritariamente para a sua destina\u00e7\u00e3o original, caso\ncontr\u00e1rio, ou em caso de sobras, devem ter a sua destina\u00e7\u00e3o declarada\nem ato do Conselho Diretor aprovado pelo Conselho Fiscal.   As Iniciativas aprovadas pelo Conselho Fiscal podem arrecadar\n    doa\u00e7\u00f5es e patroc\u00ednios.   6.8.3. Demais despesas, que n\u00e3o se enquadram nas cl\u00e1usulas 6.8.1 ou\n6.8.2, devem ser declaradas pelo Conselho Fiscal e aprovadas pela\nAssembleia Geral.  Inclus\u00e3o de nova cl\u00e1usula :  6.9 . Os membros eleitos para exercerem fun\u00e7\u00e3o nos \u00f3rg\u00e3os que comp\u00f5em\na estrutura da associa\u00e7\u00e3o, n\u00e3o receber\u00e3o qualquer tipo de remunera\u00e7\u00e3o\npara os cargos que exer\u00e7am.", 
             "title": "Regulamenta\u00e7\u00f5es da cl\u00e1usula 6"
+        }, 
+        {
+            "location": "/processo/", 
+            "text": "Processo de aprova\u00e7\u00e3o do Estatuto\n\n\nO processo de constru\u00e7\u00e3o e aprova\u00e7\u00e3o do Estatuto, entre um grupo de ~40 interessados na Comunidade OpenStreetMap de mapeadores do Brasil,\n\u00e9 \ndescrito na Wiki\n.\n\n\nOs principais momentos do processo foram:\n\n\n\n\nEstabelecer, em consenso, as diretivas gerais da Associa\u00e7\u00e3o.\n\n\nDiscutir e votar a estrutura do Estatuto.\n\n\nDiscutir e votar um texto preliminar.\n\n\nVotar em um texto final.\n\n\nAprovar junto ao restante da comunidade que vier a se manifestar em consulta p\u00fablica sobre o Estatuto.\n\n\nRealizar \nAssembleia de Funda\u00e7\u00e3o\n da Associa\u00e7\u00e3o.\n\n\n\n\nNo momento est\u00e1 em andamento o passo 5.\n\n\nOutros documentos\n\n\nNo git\n encontram-se todos os demais documentos preservados para fins de transpar\u00eancia. \nA partir da funda\u00e7\u00e3o da Associa\u00e7\u00e3o, \u00e9 onde ser\u00e1 realizada a gest\u00e3o das atualiza\u00e7\u00f5es dos documentos e dados oficiais da Associa\u00e7\u00e3o OSM Brasil.", 
+            "title": "Aprova\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/processo/#processo-de-aprovacao-do-estatuto", 
+            "text": "O processo de constru\u00e7\u00e3o e aprova\u00e7\u00e3o do Estatuto, entre um grupo de ~40 interessados na Comunidade OpenStreetMap de mapeadores do Brasil,\n\u00e9  descrito na Wiki .  Os principais momentos do processo foram:   Estabelecer, em consenso, as diretivas gerais da Associa\u00e7\u00e3o.  Discutir e votar a estrutura do Estatuto.  Discutir e votar um texto preliminar.  Votar em um texto final.  Aprovar junto ao restante da comunidade que vier a se manifestar em consulta p\u00fablica sobre o Estatuto.  Realizar  Assembleia de Funda\u00e7\u00e3o  da Associa\u00e7\u00e3o.   No momento est\u00e1 em andamento o passo 5.", 
+            "title": "Processo de aprova\u00e7\u00e3o do Estatuto"
+        }, 
+        {
+            "location": "/processo/#outros-documentos", 
+            "text": "No git  encontram-se todos os demais documentos preservados para fins de transpar\u00eancia. \nA partir da funda\u00e7\u00e3o da Associa\u00e7\u00e3o, \u00e9 onde ser\u00e1 realizada a gest\u00e3o das atualiza\u00e7\u00f5es dos documentos e dados oficiais da Associa\u00e7\u00e3o OSM Brasil.", 
+            "title": "Outros documentos"
         }
     ]
 }
